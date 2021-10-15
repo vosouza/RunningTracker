@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="google_maps_key">AIzaSyDvqtKjn3bej7_6Yfg4y-qsFj3ywlUZNpU</string>
+
+</resources>
