@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/drawable/ic_baseline_trash_24.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.14901960784313725" />
         <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.1921875" />
@@ -14,7 +15,9 @@
         <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/layout/fragment_tracking.xml" value="0.1921875" />
         <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/layout/item_run.xml" value="0.33" />
         <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/layout/iten_run.xml" value="0.1921875" />
+        <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/layout/marker_view.xml" value="0.1921875" />
         <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/vosouza/Desktop/AndroidEstudo/MyApplication/app/src/main/res/menu/toolbar_tracking_menu.xml" value="0.1921875" />
       </map>
     </option>
   </component>

@@ -16,6 +16,7 @@ object Constants {
     const val NOTIFICATION_CHANNEL_NAME = "tracking"
     const val NOTIFICATION_ID = 1
 
+    const val TIMER_UPDATE_INTERVAL = 50L
     const val LOCATION_REQUEST_INTERVAL = 5000L
     const val FASTEST_LOCATION_INTERVAL = 2000L
 
@@ -23,5 +24,8 @@ object Constants {
     const val POLYLINE_WIDTH = 8f
     const val MAP_ZOOM = 15f
 
-
+    const val SHARED_PREFERENCES_NAME = "sheredpref"
+    const val KEY_FIRST_TIME_TOGGLE = "KEY_FIRST_TIME_TOGGLE"
+    const val KEY_NAME = "KEY_NAME"
+    const val KEY_WEIGHT = "KEY_WEIGHT"
 }
